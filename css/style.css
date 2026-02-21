@@ -569,7 +569,7 @@ text-transform: capitalize;
 .service .container
 {
  padding-bottom: 40px;  
-padding-left: 15%;
+padding-left: 19%;
 }
 
 .service .service-item
@@ -636,7 +636,7 @@ padding-left: 15%;
 .portfolio .container
 {
 padding-bottom: 40px;
-padding-left: 15%;
+padding-left: 19%;
 
 
 }
@@ -673,7 +673,7 @@ margin-bottom: 40px;
 .contact .container
 {
 padding-bottom: 40px;
-padding-left: 15%;
+padding-left: 19%;
 
 
 }
@@ -824,6 +824,7 @@ max-width: 100%;
   } 
   
 }
+
 
 
 
